@@ -26,5 +26,12 @@
 <br>
 <p dir="auto"></p>
 <hr>
+   </details>
+<h4 dir="auto"><a id="user-content-thanks-for-giving-my-profile-a-view-heres-a-programming-joke-for-you-d" class="anchor" aria-hidden="true" href="#thanks-for-giving-my-profile-a-view-heres-a-programming-joke-for-you-d"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Thanks for giving my profile a view. Here's a programming joke for you :D</h4>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069"><img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Jokes Card" data-canonical-src="https://readme-jokes.vercel.app/api" style="max-width: 100%;"></a></p>
+</article>
+  </div>
+</div>
+
 </div>
 </article>
