@@ -28,19 +28,6 @@
 <hr>
    
    
-<h3 dir="auto"></h3>
-<div dir="auto">
-<p dir="auto">
-</p><p dir="auto">Atualmente trabalhando na <strong>Agência Nucleo</strong> e disponível como freelancer
-<br>
-   <div>
-<a href="https://github.com/orafinhasilva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?orafinhasilva&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?orafinhasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<p dir="auto"></p>
-<hr>
-   
    
    </details>
 <h4 dir="auto"><a id="user-content-thanks-for-giving-my-profile-a-view-heres-a-programming-joke-for-you-d" class="anchor" aria-hidden="true" href="#thanks-for-giving-my-profile-a-view-heres-a-programming-joke-for-you-d"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Obrigado por visualizar meu perfil. Aqui vai uma piada de programação para você :D</h4>
