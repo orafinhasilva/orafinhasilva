@@ -22,7 +22,7 @@
 <h3 dir="auto"></h3>
 <div dir="auto">
 <p dir="auto">
-</p><p dir="auto">Atualmente trabalhando na <strong>Agência Nucleo</strong> e disponível como freelancer
+</p><p dir="auto">Atualmente trabalhando na <strong>ProTrade MKT</strong> e disponível como freelancer
 <br>
 <p dir="auto"></p>
 <hr>
