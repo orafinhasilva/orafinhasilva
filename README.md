@@ -29,7 +29,6 @@ Trabalho com projetos que envolvem automação, inteligência de dados e experi�
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=orafinhasilvashow_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafinhasilva&layout=compact&theme=radical" />
 </p>
 
